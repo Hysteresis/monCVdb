@@ -1,6 +1,7 @@
 *{
     padding: 0;
     margin: 0;
+    box-sizing: border-box;
     
 }
 
@@ -23,11 +24,12 @@
 }
 
 
-
-/* skills */
-.skills .card{
-    background-color: rgb(26, 26, 26);
-    background: linear-gradient(0.25turn, #020202, #4d4d4d, #0f0f0f);
+h5{
+    color: #ff9029;
+    background: #232323;
+    text-shadow: 0 0 5px #FFF, 0 0 10px rgb(255, 245, 223), 0 0 15px rgb(255, 150, 65), 0 0 20px #ff8819 , 0 0 30px #efd807 , 0 0 40px #efa507 ;
+    color: #ffffff;
+    background: #232323;
 }
 
 
